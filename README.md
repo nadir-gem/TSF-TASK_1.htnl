@@ -1,2 +1,3 @@
-# TSF-TASK_1
-Nadir ALN=BAB
+# TSF-TASK_1 Data Science and Business Analytics
+SUPERVISED MACHINE LEARNING 
+PREDICTING SCORES 
